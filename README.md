@@ -1,6 +1,6 @@
 # mapdev
 
-Mapdev is an application to find developer registred with his github username consuming github api.
+Mapdev is an application to find developers registred with his github username consuming github api.
 
 # backend
 
