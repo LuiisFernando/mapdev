@@ -1,1 +1,16 @@
 # mapdev
+
+Mapdev is a application to find developer registred with his github username consuming github api.
+
+# backend
+
+the backend was developed with NodeJS and using MongoDB to store the developer information consuming github api.
+using mongoose to manage connection.
+
+# frontend
+
+the frontend was developed with ReactJS to consume the node WebApi to store and list developers.
+
+<p align="center">
+  <img width="180" height="380" src="https://i.imgsafe.org/25/25b9165722.png">
+</p>
