@@ -12,5 +12,5 @@ using mongoose to manage connection.
 the frontend was developed with ReactJS to consume the node WebApi to store and list developers.
 
 <p align="center">
-  <img width="180" height="380" src="https://i.imgsafe.org/25/25b9165722.png">
+  <img width="850" height="421" src="https://i.imgsafe.org/25/25b9165722.png">
 </p>
