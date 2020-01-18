@@ -24,7 +24,7 @@ export default function DevForm({ onSubmit }) {
         );   
       }, []);
 
-      async function handleSubmit(e) {
+    async function handleSubmit(e) {
         e.preventDefault();
 
         await onSubmit({
@@ -36,7 +36,7 @@ export default function DevForm({ onSubmit }) {
 
         setGithub_username('');
         setTechs('');
-      }
+    }
 
     return (
         <form onSubmit={handleSubmit}>
